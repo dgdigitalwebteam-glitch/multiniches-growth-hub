@@ -1,0 +1,6 @@
+{
+  "name": "SmartScope Daily",
+  "description": "A trusted digital magazine providing practical knowledge, technology guides, AI tools, blogging strategies, freelancing advice, business insights, education, lifestyle, and everyday solutions. Explore. Learn. Grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
